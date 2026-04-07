@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rippko&theme=omni&show_icons=true&hide_border=true&hide_title=true&bg_color=9ca3af00)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rippko&theme=omni&show_icons=true&hide_border=true&hide_title=true&layout=compact&bg_color=9ca3af00)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiuryadam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
