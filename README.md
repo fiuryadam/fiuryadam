@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiuryadam)](https://github.com/fiuryadam/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiuryadam)](https://github.com/fiuryadam/fiuryadam/github-readme-stats)
 
 
 
